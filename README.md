@@ -12,6 +12,8 @@ Google Book Elements of International Law: https://play.google.com/books/reader?
 * Page 65 / 486 (ctext)
 第十二節公法源流
 
+目前進度： Page 72 / 486
+
 ### Chapter II 自治自主之權
 * 第一節 
 * 第二節何者為國
@@ -20,10 +22,6 @@ Google Book Elements of International Law: https://play.google.com/books/reader?
 * 第五節主權分內外主權未失國未亡 
 * 第六節在內之主權在外之主權
 * 第七節
-
-
-
-
 
 
 
