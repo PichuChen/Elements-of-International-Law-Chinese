@@ -18,7 +18,8 @@ Google Book Elements of International Law: https://play.google.com/books/reader?
 * 第三節君身之私權
 * 第四節民人之私權君國通用
 * 第五節主權分內外主權未失國未亡 
-* 第六節在內之主權
+* 第六節在內之主權在外之主權
+* 第七節
 
 
 
