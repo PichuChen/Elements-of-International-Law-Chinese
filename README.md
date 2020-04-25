@@ -5,7 +5,12 @@
 
 Google Book Elements of International Law: https://play.google.com/books/reader?id=GGgDAAAAQAAJ&hl=zh_TW
 
-Google Book 的頁號一般來說多書本上的頁號 34 頁
+第一卷 PART FIRST
+
+Chpater I
+* Page 9/758 (Google Book)
+* Page 65/486 (ctext)
+
 
 
 
