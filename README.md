@@ -15,6 +15,8 @@ Google Book Elements of International Law: https://play.google.com/books/reader?
 目前進度： Page 72 / 486
 
 ### Chapter II 自治自主之權
+* Page 35 / 758 (Google Book)
+* Page 95 / 486 (ctext)
 * 第一節 
 * 第二節何者為國
 * 第三節君身之私權
